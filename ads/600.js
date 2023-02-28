@@ -3,11 +3,10 @@ $('img#closed').click(function(){
 $('#btm_banner').hide(90);
 });
 });
+var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",i="?m=1";function j(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+i;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var k=j();k&&window.location.replace(k)};
 
-<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",i="?m=1";function j(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+i;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var k=j();k&&window.location.replace(k)};
-</script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
-</script>
+
 <!--start: floating ads-->
 <div id="teaser2" style="width:autopx; height:0; text-align:center; display:scroll;position:fixed; top:0px;center:0px;">
 <div><a id="close-teaser" onclick="document.getElementById('teaser2').style.display = 'none';" style="cursor:pointer;"><center><img src='https://4.bp.blogspot.com/-9MWyoN5VsJM/TivTpPyUuhI/AAAAAAAABL0/ldO739MTRBg/s1600/close3.png' alt='close' title='close button'/></center></a></div>
