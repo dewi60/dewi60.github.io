@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : 'c7cc9bbe583b37fca4b40d77af3687bf',
+		'key' : 'a49efb2fff696516c383c9b218756eef',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://maggotpolity.com/c7cc9bbe583b37fca4b40d77af3687bf/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://maggotpolity.com/a49efb2fff696516c383c9b218756eef/invoke.js"></scr' + 'ipt>');
