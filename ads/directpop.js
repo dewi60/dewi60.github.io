@@ -7,5 +7,5 @@ $(document).ready(function()
  {
      $(this).removeClass('xepo_ads');
      //ubah google dengan ads direct link
-     window.open('https://maggotpolity.com/fy15whpk?key=9d7aa7088a7cd82f76abed276e814809', '_blank');
+     window.open('https://maggotpolity.com/xswgebrb?key=f2258c4d3b3b67ff6f4b215e20a98dba', '_blank');
  });
