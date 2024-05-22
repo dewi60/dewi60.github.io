@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 160,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://maggotpolity.com/72fdf5c17fb54df0e0295757e8cfe5f8/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://furyprosecutionkitchen.com/72fdf5c17fb54df0e0295757e8cfe5f8/invoke.js"></scr' + 'ipt>');
