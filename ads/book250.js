@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://disguisedtimingbreath.com/925c797a50c4f56dca1844ddce33e33f/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://enraptureminims.com/925c797a50c4f56dca1844ddce33e33f/invoke.js"></scr' + 'ipt>');
